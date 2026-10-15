@@ -93,6 +93,21 @@
       ]
     },
     {
+      "id": "audiosilo",
+      "name": "Audiosilo",
+      "description": "[AudioSilo](https://audiosilo.app) is a self-hosted audiobook server. Point it at your audiobook folders and listen from the built-in web player or the AudioSilo apps for iOS and Android, with listening progress synced across devices.",
+      "version": "1.0.0",
+      "author": "technorabilia",
+      "compose_url": "https://raw.githubusercontent.com/technorabilia/docker-bits/refs/heads/main/lsio/audiosilo/docker-compose.yaml",
+      "env_url": "https://raw.githubusercontent.com/technorabilia/docker-bits/refs/heads/main/lsio/docker-env.cfg",
+      "documentation_url": "https://github.com/technorabilia/docker-bits/tree/main/lsio/audiosilo",
+      "content_hash": "57a414af6b625370b198773349f86fa9826cbded214090cc27ee751d9cc4bfc3",
+      "tags": [
+        "Audiobooks",
+        "Media-Servers"
+      ]
+    },
+    {
       "id": "azahar",
       "name": "Azahar",
       "description": "[Azahar](https://azahar-emu.org/) is an open-source 3DS emulator based on Citra.",
@@ -371,6 +386,22 @@
       "content_hash": "4ab57de98abd2f9724c6d9e897451526db4b058de2493834a6821cf0a3419767",
       "tags": [
         "Books"
+      ]
+    },
+    {
+      "id": "craft-apps",
+      "name": "Craft-apps",
+      "description": "[ArtCraft](https://getartcraft.com/) is a suite of open source creative applications written in Rust. This image bundles PhotoCraft (image editor), VectorCraft (vector illustration), FilmCraft (video editor), LightCraft (photo library and raw developer), PdfCraft (PDF workbench), EffectCraft (motion graphics and VFX compositor) and DesignCraft (page layout and publishing) in a single desktop.",
+      "version": "1.0.0",
+      "author": "technorabilia",
+      "compose_url": "https://raw.githubusercontent.com/technorabilia/docker-bits/refs/heads/main/lsio/craft-apps/docker-compose.yaml",
+      "env_url": "https://raw.githubusercontent.com/technorabilia/docker-bits/refs/heads/main/lsio/docker-env.cfg",
+      "documentation_url": "https://github.com/technorabilia/docker-bits/tree/main/lsio/craft-apps",
+      "content_hash": "4a5b99c179612b44f799cdc8e62460daf587175b02f49aee0bd851a7a24312fb",
+      "tags": [
+        "Image-Editor",
+        "Video-Editor",
+        "Media-Tools"
       ]
     },
     {
@@ -1624,6 +1655,20 @@
       "content_hash": "800f6747f841c8d598f58d185ee88f16321a74a052c9716ee642a175258a0eb2",
       "tags": [
         "IRC"
+      ]
+    },
+    {
+      "id": "nomacs",
+      "name": "Nomacs",
+      "description": "[Nomacs](https://github.com/nomacs/nomacs) is a free, open source image viewer, which supports multiple platforms. You can use it for viewing all common image formats including RAW and psd images.",
+      "version": "1.0.0",
+      "author": "technorabilia",
+      "compose_url": "https://raw.githubusercontent.com/technorabilia/docker-bits/refs/heads/main/lsio/nomacs/docker-compose.yaml",
+      "env_url": "https://raw.githubusercontent.com/technorabilia/docker-bits/refs/heads/main/lsio/docker-env.cfg",
+      "documentation_url": "https://github.com/technorabilia/docker-bits/tree/main/lsio/nomacs",
+      "content_hash": "b10d99221b6e9b599b099c14f3b1647df69e09bd8d4404e3090f56d1ae5755b7",
+      "tags": [
+        "Image-Editor"
       ]
     },
     {
