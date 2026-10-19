@@ -391,13 +391,13 @@
     {
       "id": "craft-apps",
       "name": "Craft-apps",
-      "description": "[ArtCraft](https://getartcraft.com/) is a suite of open source creative applications written in Rust. This image bundles PhotoCraft (image editor), VectorCraft (vector illustration), FilmCraft (video editor), LightCraft (photo library and raw developer), PdfCraft (PDF workbench), EffectCraft (motion graphics and VFX compositor) and DesignCraft (page layout and publishing) in a single desktop.",
+      "description": "[ArtCraft](https://getartcraft.com/) is a suite of open source creative applications written in Rust. This image bundles PhotoCraft (image editor), VectorCraft (vector illustration), FilmCraft (video editor), LightCraft (photo library and raw developer), PdfCraft (PDF workbench), EffectCraft (motion graphics and VFX compositor), DesignCraft (page layout and publishing) and FigCraft (interface design and prototyping) in a single desktop.",
       "version": "1.0.0",
       "author": "technorabilia",
       "compose_url": "https://raw.githubusercontent.com/technorabilia/docker-bits/refs/heads/main/lsio/craft-apps/docker-compose.yaml",
       "env_url": "https://raw.githubusercontent.com/technorabilia/docker-bits/refs/heads/main/lsio/docker-env.cfg",
       "documentation_url": "https://github.com/technorabilia/docker-bits/tree/main/lsio/craft-apps",
-      "content_hash": "4a5b99c179612b44f799cdc8e62460daf587175b02f49aee0bd851a7a24312fb",
+      "content_hash": "436fa18a0956a9a04603f80ce0ca74b4eb4fef18d2258364edb832bfb3afe1b1",
       "tags": [
         "Image-Editor",
         "Video-Editor",
