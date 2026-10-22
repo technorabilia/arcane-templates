@@ -262,20 +262,6 @@
       ]
     },
     {
-      "id": "budge",
-      "name": "Budge",
-      "description": "[Budge](https://github.com/linuxserver/budge) is an open source 'budgeting with envelopes' personal finance app.",
-      "version": "1.0.0",
-      "author": "technorabilia",
-      "compose_url": "https://raw.githubusercontent.com/technorabilia/docker-bits/refs/heads/main/lsio/budge/docker-compose.yaml",
-      "env_url": "https://raw.githubusercontent.com/technorabilia/docker-bits/refs/heads/main/lsio/docker-env.cfg",
-      "documentation_url": "https://github.com/technorabilia/docker-bits/tree/main/lsio/budge",
-      "content_hash": "9586665a0b4848843d04e63f29170bbbd0417125a8a6acc7f644c782e99c7407",
-      "tags": [
-        "Finance"
-      ]
-    },
-    {
       "id": "calibre",
       "name": "Calibre",
       "description": "[Calibre](https://calibre-ebook.com/) is a powerful and easy to use e-book manager. Users say it's outstanding and a must-have. It'll allow you to do nearly everything and it takes things a step beyond normal e-book software. It's also completely free and open source and great for both casual users and computer experts.",
