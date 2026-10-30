@@ -1218,13 +1218,13 @@
     {
       "id": "lazylibrarian",
       "name": "Lazylibrarian",
-      "description": "[Lazylibrarian](https://lazylibrarian.gitlab.io/) is a program to follow authors and grab metadata for all your digital reading needs. It uses a combination of Goodreads Librarything and optionally GoogleBooks as sources for author info and book info. This container is based on the DobyTang fork.",
+      "description": "[Lazylibrarian](https://lazylibrarian.gitlab.io/) is a program to follow authors and grab metadata for all your digital reading needs. It uses a combination of HardCover, OpenLibrary, Librarything, GoodReads, and optionally GoogleBooks as sources for author info and book info.",
       "version": "1.0.0",
       "author": "technorabilia",
       "compose_url": "https://raw.githubusercontent.com/technorabilia/docker-bits/refs/heads/main/lsio/lazylibrarian/docker-compose.yaml",
       "env_url": "https://raw.githubusercontent.com/technorabilia/docker-bits/refs/heads/main/lsio/docker-env.cfg",
       "documentation_url": "https://github.com/technorabilia/docker-bits/tree/main/lsio/lazylibrarian",
-      "content_hash": "bb08cb5621bf5bab30a7e2f093c12c7528d9864aeab41477c4b78d9ee996e412",
+      "content_hash": "84f20e7c21c3302d145cfb45994dc758072aeab9a75b8578d23db005b461e32a",
       "tags": [
         "Books"
       ]
